@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708346283092,
+      "tag": "0000_natural_manta",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708346901096,
+      "tag": "0001_nice_ares",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708347742486,
+      "tag": "0002_remarkable_sauron",
+      "breakpoints": true
+    }
+  ]
+}
